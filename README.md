@@ -7,13 +7,12 @@
 <img src="https://komarev.com/ghpvc/?username=ArshadZanin&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-21-blue" />
-  <img src="https://img.shields.io/badge/Focus-Flutter%20Developer-brightgreen" />
+<img src="https://img.shields.io/badge/Age-23-blue" />
+  <img src="https://img.shields.io/badge/Focus-FullStack%20Developer-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-India-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Malayalam-brightgreen" />
 </p>
 <hr>
-<img src="https://komarev.com/ghpvc/?username=Ahmad-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+<img src="https://komarev.com/ghpvc/?username=Tech-Ajay&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ajay Neelankatil </h1>
 <h3 align="center">Full Stack Developer | Software Engineer </h3>
