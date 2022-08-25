@@ -17,12 +17,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ajay Neelankatil </h1>
 <h3 align="center">Full Stack Developer | Software Engineer </h3>
 <p align="center">
-<a href="https://www.hackerrank.com/arshadzanin786" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="arshad_zanin" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/arshad-sanin-153bab20b/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="arshad_zanin" height="30" width="40" /></a>  
-<!-- <a href="https://www.kaggle.com/arshadzanin" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a> -->
-<a href="https://www.instagram.com/arshad_zanin/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="arshad_zanin" height="30" width="40" /></a>
-<!-- <a href="https://www.facebook.com/arshadzanin/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a> -->
- <a href = "mailto: arshadzanin786@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ajayn_89140" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="ajay_neelankatil" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ajay-n-2b0271225/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="ajay_neelankatil" height="30" width="40" /></a>  
+<a href="https://www.instagram.com/inked_skulll/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="ajay_neelankatil" height="30" width="40" /></a>
+ <a href = "mailto: ajayn.89140@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" /></a>
 </p>
 </p>
 
@@ -30,9 +28,9 @@
 
 <p align="center">
   <em>
-    Hello, I am Arshad Sanin a <b>final year</b> undergraduate from <a href="https://uom.lk/"> <b>University Of Calicut</b>, India</a>. <br>
+    Hello, I am Ajay Neelankatil a <b>final year</b> undergraduate from <a href="https://www.kristujayanti.edu.in/home/"> <b>Kristu Jayanti College</b>, India</a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Engineer </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Flutter</b> and always looking to find patterns of which are hidden in the data 
+    with <b>Programming</b> and always looking to find patterns of which are hidden in the data 
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
@@ -43,10 +41,9 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing a student tool using **Flutter Framework**<br>
-✔ I’m currently learning about **deep learning**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source Flutter and Dart projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
+✔ I’m currently A Developer in Digi Mogo As **Full Stack Developer**<br>
+✔ I’m currently learning about **Artificial Intellignce**🥰<br>
+✔ Ask any help regarding programming, I will be your buddy in minutes 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
  
 
@@ -82,12 +79,12 @@
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArshadZanin&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="AS" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ArshadZanin&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tech-Ajay&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="AS" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Tech-Ajay&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
 <hr>
 
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=ArshadZanin&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Tech-Ajay&theme=juicyfresh&no-bg=true" />
