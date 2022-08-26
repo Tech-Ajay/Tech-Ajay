@@ -75,16 +75,5 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg"> </code>
 
-  <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tech-Ajay&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="AS" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Tech-Ajay&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+  
 
-<hr>
-
-
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=Tech-Ajay&theme=juicyfresh&no-bg=true" />
