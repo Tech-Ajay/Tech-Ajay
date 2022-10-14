@@ -17,7 +17,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ajay Neelankatil </h1>
 <h3 align="center">Full Stack Developer | Software Engineer </h3>
 <p align="center">
-
+<p align="center">
 <a href="https://www.hackerrank.com/ajayn_89140" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="ajay_neelankatil" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ajay-n-2b0271225/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="ajay_neelankatil" height="30" width="40" /></a>  
 <a href="https://www.instagram.com/inked_skulll/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="ajay_neelankatil" height="30" width="40" /></a>
