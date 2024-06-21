@@ -15,7 +15,7 @@
 <img src="https://komarev.com/ghpvc/?username=Tech-Ajay&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ajay Neelankatil </h1>
-<h3 align="center">Full Stack Developer | Software Engineer </h3>
+<h3 align="center">Full Stack Developer | AI AND ML Engineer </h3>
 <p align="center">
 <p align="center">
 <a href="https://www.hackerrank.com/ajayn_89140" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="ajay_neelankatil" height="30" width="40" /></a>
@@ -29,7 +29,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Ajay Neelankatil a <b> undergraduate </b>  from <a href="https://www.kristujayanti.edu.in/home/"> <b>Kristu Jayanti College</b>, India</a>. <br>
+    Hello, I am Ajay Neelankatil a <b> Postgraduate </b>  from <b>University of Limerick</b>, Ireland</a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Engineer </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Programming</b> and always looking to find patterns of which are hidden in the data 
   </em> 
